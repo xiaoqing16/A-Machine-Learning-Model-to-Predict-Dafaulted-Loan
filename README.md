@@ -1,4 +1,4 @@
-# Monet-Lion-Assessment
+# MoneyLion-Assessment
 ## A machine learning model to predict defaulted loan
 
 This repository contains the assessment test given by MoneyLion for data scientist hiring interview.
